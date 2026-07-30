@@ -216,12 +216,6 @@ positioning, and strategic recommendations.
 
 ---
 
-## 🙏 Credits
-
-The initial company-research agent scaffold was adapted from
-[Mayo Oshin](https://github.com/mayooear)'s LangGraph company researcher.
-CompetitorIQ extends it with competitor discovery, retrieval, competitive
-analysis, and the Next.js frontend.
 
 ## 👨‍💻 Author
 
