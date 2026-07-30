@@ -1,0 +1,10 @@
+{
+  "python_version": "3.11",
+  "graphs": {
+    "competitor-iq": "./backend/src/graph.py:company_researcher_graph"
+  },
+  "dependencies": [
+    "./backend"
+  ],
+  "env": ".env"
+}

@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "competitor-iq"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "langgraph==0.2.70",
+    "langchain-core==0.3.61",
+    "langchain-groq==0.2.4",
+    "firecrawl-py==1.15.0",
+    "qdrant-client==1.13.3",
+    "pydantic==2.11.5",
+    "python-dotenv==1.1.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["src*"]

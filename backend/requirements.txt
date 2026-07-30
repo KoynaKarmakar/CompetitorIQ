@@ -1,0 +1,8 @@
+langgraph==0.2.70
+langgraph-cli[inmem]==0.1.71
+langchain-core==0.3.61
+langchain-groq==0.2.4
+firecrawl-py==1.15.0
+qdrant-client==1.13.3
+pydantic==2.11.5
+python-dotenv==1.1.0
